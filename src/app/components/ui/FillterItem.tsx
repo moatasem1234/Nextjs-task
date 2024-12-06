@@ -26,9 +26,7 @@ export default function FillterItem() {
                 onClick={handleClick}
                 className='flex items-center hover:bg-white  gap-2 text-black'
             >
-
                 <FilterAltIcon />
-
                 <Badge sx={{ pt: 1, fontWeight: "bold", fontSize: "25px" }} color="primary" badgeContent={0} showZero>
                     Fillter
                 </Badge>

@@ -1,5 +1,5 @@
 import { Box } from "@mui/material"
-import StatsCard from "../components/ui/StatsCard"
+import StatsCard from "@/app/components/ui/StatsCard"
 import Filters from "../components/ui/Filters"
 import DataTable from "../components/ui/DataTable"
 

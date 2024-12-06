@@ -36,10 +36,9 @@ const Header = () => {
           priority
         />
       </Box>
-
       <Box sx={navigationContainer}>
         <Box sx={linksContainer}>
-          <Link sx={linkStyle} component="button" variant="body2">
+          <Link   sx={linkStyle} component="button" variant="body2">
             Home
           </Link>
           <Link sx={linkStyle} component="button" variant="body2">

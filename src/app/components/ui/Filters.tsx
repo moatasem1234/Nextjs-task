@@ -1,4 +1,4 @@
-import { Box, TextField, Button, FormControl, InputLabel, OutlinedInput, InputAdornment } from '@mui/material';
+import { Box, FormControl, InputLabel, OutlinedInput, InputAdornment } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
 import FillterItem from './FillterItem';
 import ColumnsItem from './ColumnsItem';

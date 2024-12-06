@@ -1,7 +1,7 @@
 "use client"
 
-import { ExpandLess, ExpandMore, StarBorder } from '@mui/icons-material';
-import { Box, Collapse, List, ListItem, ListItemButton, ListItemIcon, ListItemText, ListSubheader } from '@mui/material';
+import { ExpandLess, ExpandMore  } from '@mui/icons-material';
+import { Box, Collapse, List, ListItem, ListItemButton,  ListItemText } from '@mui/material';
 import { useState } from 'react';
 import { CollapseButtonlist, CollapselistItme, listContainer, mainListItem, sidebarContainer } from './Sidebar.styled';
 

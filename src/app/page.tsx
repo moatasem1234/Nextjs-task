@@ -1,9 +1,6 @@
 import Image from "next/image";
 
-import { ThemeProvider, CssBaseline } from '@mui/material';
-import { CacheProvider } from '@emotion/react';
-import createEmotionCache from "@/utils/createEmotionCache";
-import theme from "@/styles/theme";
+
 import '../styles/globals.css';
 
 export default function Home() {
