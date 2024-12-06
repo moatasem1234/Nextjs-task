@@ -1,7 +1,7 @@
 import { Box } from "@mui/material"
 import StatsCard from "@/app/components/ui/StatsCard"
 import Filters from "../components/ui/Filters"
-import DataTable from "../components/ui/DataTable"
+
 
 import { HeadCell } from "../components/ui/MyTableTypes"
 import MyTable from "../components/ui/MyTable"
